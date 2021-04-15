@@ -1,3 +1,6 @@
 # Project-RDB-Rosliny
-Projekt studencki polegający na uprawie roślin.
-Zadanie polega na wybraniu nawozu oraz odpowiednich roślin na konkretnym polu, nastepnie wybranie ilości dni, ile roślina ma się uprawiać. Kolejną cześcią jest wybranie laboratna, któremu przypisujemy eksperyment. Wynik eksperymentu można zobaczyć w panelu laboranta
+
+A student project involving the cultivation of plants.
+
+The task is to select the fertilizer and the appropriate plants in a specific field, then choose the number of days to grow the plant. 
+The next part is choosing the laboratory to whom we assign the experiment. The result of the experiment can be seen in the laboratory technician's panel.
